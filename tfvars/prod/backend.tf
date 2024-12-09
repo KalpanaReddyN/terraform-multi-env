@@ -1,4 +1,4 @@
-bucket = "multienv-remote-state-prod"
+bucket = "multienv-remote-state-production"
 key = "tfvars-demo-prod"
 region = "us-east-1"
-dynamodb_table = "81s-locking-prod"
+dynamodb_table = "81s-locking-production"
